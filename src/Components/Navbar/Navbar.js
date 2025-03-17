@@ -9,7 +9,7 @@ function Navbar() {
       <a className='tv' href=''>TV Shows</a>
       <a className='movies' href='#mov'>Films</a>
       <a className='recents' href=''>Recently Added</a>
-      <a className='mylist' href=''>My List</a>
+      <a className='mylist' href=''>Your List</a>
       <i class="fa-solid fa-magnifying-glass"></i>
       
       <img className="avatar" src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png" alt="" />
