@@ -7,7 +7,7 @@ function Navbar() {
       
       <img className="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png" alt="" />
       <a className='tv' href=''>TV Shows</a>
-      <a className='films' href='#mov'>Movies</a>
+      <a className='movies' href='#mov'>Films</a>
       <a className='recents' href=''>Recently Added</a>
       <a className='mylist' href=''>My List</a>
       <i class="fa-solid fa-magnifying-glass"></i>
